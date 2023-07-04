@@ -1,13 +1,13 @@
 # DTW-Speech-Cognition
 Homework of the course 'Speech Signal Process'. Able to recoginize the number 0 to 9 in Chinese.
 
-* data文件夹：训练数据与测试数据
-* block.m：语音分割函数
-* cepstrum.m：帧特征提取函数，输出LPCC, MFCC, dMFCC, FFTC
-* DP.m：DTW算法函数
-* durbin.m：杜宾算法函数
-* featuredata.mat：储存的模板数据
-* main.m：主函数
+* \data：Conclude test datas and train datas
+* block.m：Split the speech signal
+* cepstrum.m：Feature extraction. Outputs: LPCC, MFCC, dMFCC, FFTC
+* DP.m：DTW implenmentation
+* durbin.m：Durbin algorithm
+* featuredata.mat：template datas, generates after training
+* main.m：
 
 >  语音数字串识别器：利用传统语音识别算法，在MATLAB上实现在普通实验室噪声环境下对0-9数字串的语音识别。
 

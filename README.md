@@ -1,5 +1,5 @@
 # DTW-Speech-Cognition
-Homework of the course 'Speech Signal Process'. Able to recoginize the number 0 to 9 in Chinese.
+Homework of the course 'Speech Signal Process'. Able to recoginize the number from 0 to 9 in Chinese.
 
 * \data：Conclude test datas and train datas
 * block.m：Split the speech signal

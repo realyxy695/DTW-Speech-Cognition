@@ -1,6 +1,6 @@
 # DTW-Speech-Cognition
 
-清华大学《语音信号处理》课程作业。
+清华大学《语音信号处理》课程作业。\\
 Homework of the course 'Speech Signal Process'. Aim to recoginize the number from 0 to 9 in Chinese.
 
 * \data： test datas and training datas
